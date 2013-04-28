@@ -1,5 +1,6 @@
 TravisLight
 ===========
+Let's try Travis CI first
 
 [![Build
 Status](https://travis-ci.org/willdurand/TravisLight.png?branch=master)](https://travis-ci.org/willdurand/TravisLight)
